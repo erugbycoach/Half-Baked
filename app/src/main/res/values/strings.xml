@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Half Baked</string>
+
+    <!-- Navigation Drawer Strings -->
+    <string name="drawer_open">Open Navigation</string>
+    <string name="drawer_close">Close Navigation</string>
+
+    <!-- PlaceHolder Strings -->
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <!-- Button Label Strings -->
+    <string name="previous_step">Previous Step</string>
+    <string name="next_step">Next Step</string>
+    <string name="next_recipe">Next Recipe</string>
+
+    <!-- Misc. Strings -->
+    <string name="recipe_overview_image">Recipe Overview Image</string>
+    <string name="thumbnail_recipeStep">Thumbnail of recipe step</string>
+</resources>
